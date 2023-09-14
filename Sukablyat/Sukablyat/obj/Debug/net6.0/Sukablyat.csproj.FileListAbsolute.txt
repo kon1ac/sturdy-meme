@@ -1,0 +1,14 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\bin\Debug\net6.0\Sukablyat.exe
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\bin\Debug\net6.0\Sukablyat.deps.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\bin\Debug\net6.0\Sukablyat.runtimeconfig.json
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\bin\Debug\net6.0\Sukablyat.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\bin\Debug\net6.0\Sukablyat.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\Sukablyat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\Sukablyat.AssemblyInfoInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\Sukablyat.AssemblyInfo.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\Sukablyat.csproj.CoreCompileInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\Sukablyat.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\refint\Sukablyat.dll
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\Sukablyat.pdb
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\Sukablyat.genruntimeconfig.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\Sukablyat\Sukablyat\obj\Debug\net6.0\ref\Sukablyat.dll

@@ -1,0 +1,4 @@
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\брах\брах\obj\Debug\net6.0\брах.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\брах\брах\obj\Debug\net6.0\брах.AssemblyInfoInputs.cache
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\брах\брах\obj\Debug\net6.0\брах.AssemblyInfo.cs
+C:\Users\kostu\OneDrive\Рабочий стол\жопа\Visual Studio\брах\брах\obj\Debug\net6.0\брах.csproj.CoreCompileInputs.cache
